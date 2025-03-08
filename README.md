@@ -1,8 +1,5 @@
 # Image-Classification-with-Transfer-Learning
 
-## Project Summary
-This project was undertaken to fulfill one of the two Capstone projects required by [SpringBoard.com](https://springboard.com). It explores the use of Transfer Learning in classifying a variety of images through the training and validating processes.
-
 ## Project Files
 The following project files are located in this project directory:
 
@@ -96,8 +93,3 @@ The following project files are located in this project directory:
 
 ## Analysis Software
 All coding was done in Python and with publicly available libraries using Jupyter Notebook.
-
-
-
-## Acknowledgements
-Credit goes to my mentor, [Alex Chao](https://www.linkedin.com/in/alexchao56/) for his invaluable guidance and feedback on the progress of this project.
