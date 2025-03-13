@@ -1,4 +1,4 @@
-# Image Recognition System with Tranfer Learning
+# Image Recognition System with Transfer Learning
 ## Project Files
 The following project files are located in this project directory:
 
