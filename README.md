@@ -1,4 +1,4 @@
-# Image Captioning System
+# Image Recognition System with Tranfer Learning
 ## Project Files
 The following project files are located in this project directory:
 
