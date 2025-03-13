@@ -1,5 +1,4 @@
-# Image-Classification-with-Transfer-Learning
-
+# Image Captioning System
 ## Project Files
 The following project files are located in this project directory:
 
